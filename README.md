@@ -44,7 +44,8 @@ I develop powerful and user-friendly web applications, **JavaScript/TypeScript (
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loginofff&layout=compact&theme=tokyonight)
 
 ### 🐍 GitHub Contribution Snake  
-![Snake animation](https://github.com/Loginofff/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Loginofff/Loginofff/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
