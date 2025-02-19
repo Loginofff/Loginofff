@@ -45,7 +45,7 @@ I develop powerful and user-friendly web applications, **JavaScript/TypeScript (
 
 ---
 
-https://github.com/Loginofff/Loginofff/blob/output/github-contribution-grid-snake.gif
+
 
 ---
 
