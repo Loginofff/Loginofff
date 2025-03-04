@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🔥 Java & JavaScript
 
-I am a Full Stack Developer with expertise in Java, JavaScript, and TypeScript. I build scalable and high-performance web applications using React, Node.js, and Spring Boot, following best practices in software architecture and clean code principles. My focus is on developing efficient, maintainable, and user-friendly solutions that enhance user experience and drive business value. I am passionate about solving complex challenges, optimizing performance, and delivering high-quality software through modern development tools and methodologies.
+I am a Full Stack Developer with a strong focus on Frontend Development. I specialize in JavaScript, TypeScript, and React, building dynamic, high-performance, and user-friendly web applications. With experience in Node.js and Java (Spring Boot) on the backend, I ensure seamless integration and optimal performance. My expertise lies in crafting intuitive UI/UX, optimizing frontend architecture, and delivering responsive, scalable solutions using modern technologies. I am passionate about writing clean, maintainable code and creating engaging user experiences that drive business success.
 
 ---
 
