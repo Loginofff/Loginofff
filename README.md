@@ -34,6 +34,7 @@ I am a Full Stack Developer with a strong focus on Frontend Development. I speci
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SupaBase-47A248?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
 ### ⚙️ **DevOps & Infrastructure**  
