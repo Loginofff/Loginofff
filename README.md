@@ -78,7 +78,7 @@ I am a Full Stack Developer with a strong focus on Frontend Development. I speci
 
 ## 📫 Contact Me  
 <p align="center">
-  <a href="https://t.me/@Logger_err">
+  <a href="https://t.me/@Logger_errr">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/Loginofff">
