@@ -43,6 +43,8 @@ I aim for precision, clarity, and purpose in every line of code.
 📊 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loginofff&layout=compact&theme=tokyonight"/> </p>
 🐍 GitHub Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Loginofff/Loginofff/output/github-contribution-grid-snake-dark.svg"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Loginofff/Loginofff/output/github-contribution-grid-snake.svg" />
+</p>
 📫 Contact Me
 <p align="center"> <a href="https://t.me/@Logger_errr"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/> </a> <a href="https://github.com/Loginofff"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p> </div>
