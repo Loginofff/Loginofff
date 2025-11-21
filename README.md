@@ -41,7 +41,7 @@ I aim for precision, clarity, and purpose in every line of code.
 ⚙️ Deepening backend expertise in Node.js and Spring Boot
 
 📊 Most Used Languages
-🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Loginofff/Loginofff/output/github-contribution-grid-snake-dark.svg" />
 </p>
